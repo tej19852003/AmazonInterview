@@ -1,2 +1,0 @@
-# AmazonInterview
-For Practice Git
